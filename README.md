@@ -2,6 +2,8 @@
 
 Playwright automation for the "Request a call back" form on https://test.netlify.app/.
 
+Automation code is in tests/request-call-back.spec.js
+
 Answers to the questions are in the ANSWERS.md file.
 
 ## What this does
