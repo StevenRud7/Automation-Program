@@ -56,7 +56,3 @@ The brief asks for two things — this repo covers both:
 
 - **(a) Automation files** — everything under `tests/` and `playwright.config.js`.
 - **(b) Written answers** — see `ANSWERS.md` for the billing widget QA review.
-
-`screenshots/` is gitignored since it's a generated artifact. After running the
-test once, grab the resulting `before-submit.png` from that folder and include
-it alongside the code as proof of execution when you send this in.
