@@ -1,4 +1,4 @@
-# Jones Automation Exercise
+# Automation Exercise
 
 Playwright automation for the "Request a call back" form on https://test.netlify.app/.
 Answers to the questions are in the ANSWERS.MD file. 
@@ -37,7 +37,7 @@ npm run report      # open the HTML report from the last run
 ## Project structure
 
 ```
-jones-automation-exercise/
+automation-exercise/
 ├── package.json
 ├── playwright.config.js     # base URL, reporter, timeouts, browser projects
 ├── tests/
