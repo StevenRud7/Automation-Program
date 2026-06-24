@@ -1,7 +1,8 @@
 # Automation Exercise
 
 Playwright automation for the "Request a call back" form on https://test.netlify.app/.
-Answers to the questions are in the ANSWERS.MD file. 
+
+Answers to the questions are in the ANSWERS.md file.
 
 ## What this does
 
